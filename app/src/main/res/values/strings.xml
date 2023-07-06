@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practicalOneW1</string>
+    <string name="rollinstructionTxt">Click Roll on get your number</string>
+    <string name="rollBTxt">Roll</string>
+</resources>
